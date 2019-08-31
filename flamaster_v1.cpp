@@ -36,7 +36,7 @@ int main()
             else
             {
                 cout<<wyraz[j]<<licznik;
-                licznik=1; 
+                licznik=1;
             }
         }
         cout<<endl;
